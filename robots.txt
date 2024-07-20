@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uorkideor.github.io/sitemap
+Sitemap: https://uorkideor.github.io/app/sitemap
+Sitemap: https://uorkideor.github.io/assets/sitemap
+Sitemap: https://uorkideor.github.io/css/sitemap
+Sitemap: https://uorkideor.github.io/includes/sitemap
+Sitemap: https://uorkideor.github.io/item/sitemap
+Sitemap: https://uorkideor.github.io/src/sitemap
